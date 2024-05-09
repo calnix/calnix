@@ -8,6 +8,9 @@ My learning journey as a guide on: [https://calnix.gitbook.io/solidity-lr](https
 
 Previously at Yield Protocol. These days I spend more time reading/auditing than coding
 
+## Learn about ZK
+- calnix.gitbook.io/zk-notes
+  
 ## Learn about Aave v3 and on-chain lending:
 - https://calnix.gitbook.io/aave-unleashed
 
