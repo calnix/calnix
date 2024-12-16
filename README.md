@@ -15,7 +15,7 @@ Previously at Yield Protocol. These days I spend more time reading/auditing than
 - https://calnix.gitbook.io/aave-book
 
 ## Learn Solidity:
-- https://calnix.gitbook.io/eth-dev/solidity-basics
+- https://calnix.gitbook.io/eth-dev/
 
 ## Learn Foundry from Projects:
 - https://calnix.gitbook.io/eth-dev/yield-mentorship-2022/projects
@@ -23,14 +23,6 @@ Previously at Yield Protocol. These days I spend more time reading/auditing than
 ## Learn Yul:
 - [https://calnix.gitbook.io/eth-dev/yul/yul](https://calnix.gitbook.io/eth-dev/yul/yul)
 
-## Learn ERCs & EIPS:
-- https://calnix.gitbook.io/eth-dev/ercs-and-eips/landing
-
-## Damn Vulnerable Defi:
-- https://calnix.gitbook.io/eth-dev/smart-contract-security/damn-vulnerable-defi
-
 ## EVM, Storage, Opcodes:
 - https://calnix.gitbook.io/eth-dev/evm-storage-opcodes
 
-## Brownie:
-- https://calnix.gitbook.io/eth-dev/deployment/brownie-framework
