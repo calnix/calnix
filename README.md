@@ -2,11 +2,7 @@
 
 # [Calnix](https://twitter.com/cal_nix)
 
-Smart contract dev versed in Solidity, Yul, EVM, Gas Opt, EIPs, Foundry
-
-My learning journey as a guide on: [https://calnix.gitbook.io/eth-dev](https://calnix.gitbook.io/eth-dev)
-
-Previously at Yield Protocol. These days I spend more time reading/auditing than coding
+Smart contract + ZK (Circom) dev 
 
 ## Learn about ZK
 - https://calnix.gitbook.io/zk-notes
