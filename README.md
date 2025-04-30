@@ -4,6 +4,8 @@
 
 Smart contract + ZK (Circom) dev 
 
+Co-author of: [Rareskills ZK Book](https://www.rareskills.io/zk-book)
+
 ## Learn about ZK
 - https://calnix.gitbook.io/zk-notes
   
